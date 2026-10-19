@@ -1,0 +1,16 @@
+{
+  "name": "Promilleberegner",
+  "short_name": "Promille",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef2f6",
+  "theme_color": "#142536",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
